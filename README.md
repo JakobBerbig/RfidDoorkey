@@ -6,3 +6,5 @@ Arduino project
 - Step Motor 28BYJ-48
 - Arduino Nano
 - Elechhouse NFC Module V3
+- Install Arduino IDE -> https://www.arduino.cc/en/software
+- 
